@@ -28,9 +28,9 @@ for i in range(len(arregloPares)):
             print("R")
     elif fila > columna:
         if esPar(columna):
-            print("D")
-        else:
             print("U")
+        else:
+            print("D")
 
 
     
