@@ -1,5 +1,8 @@
 # Logic
 
+### Running the code
+This is a simple python code. Theonly requirement needed is python 3.6 or above.
+
 ### Solution
 >The proposed problem generates 6 posible outcomes, depending columns or rows being equal, more columns than rows or more rows than columns, and checking pairs or evens; we ask for input on these variables and then simply decide the corresponding output based on the cases. 
 
